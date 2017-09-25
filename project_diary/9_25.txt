@@ -1,0 +1,35 @@
+Project Diary Day 1 - 9/25
+
+Goals for today -
+- examine the datasets I have picked from the Socrata API
+- look at a source for rental price - Zillow?
+- figure out how to use Jupyter with pandas
+
+Process Goals -
+- take a stretch break every hour
+- record start and end times of work
+
+
+What I Did Today:
+11am
+    Installed Python and Jupyter on my computer in my root directory so I can run a Jupyter nb
+    Read the Jupyter docs to figure out how to use pandas with jupyter
+    installed pandas in my virtual env in my project folder in src
+    Tried to import pandas in a jupyter nb saved in my housing project folder - didn't work
+        - do I need to start my Jupyter nb in my virtual env where pandas is intalled?
+        - can I just run the interactive ipython on vagrant and import pandas?
+12pm
+    - asked for help
+    - spent an hour with Jen troubleshooting
+
+1-2 Lunch
+
+2-2:30 Troubleshot w/Henry
+
+2:35 started working on lab computer
+
+3pm got Pandas to work in Jupyter
+
+
+
+

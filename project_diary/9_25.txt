@@ -22,14 +22,28 @@ What I Did Today:
     - asked for help
     - spent an hour with Jen troubleshooting
 
-1-2 Lunch
+1-2
+    Lunch
 
-2-2:30 Troubleshot w/Henry
+2-2:30
+    Troubleshot w/Henry
+    conclusion: my computer is too slow to run jupyter
 
-2:35 started working on lab computer
+2:35
+    started working on lab computer
 
-3pm got Pandas to work in Jupyter
+3pm
+    got Pandas to work in Jupyter
+    started manipulating the 2014 housing inventory dataset
+    set up project folder and github repository
+    realized I will need some kind of Google Maps layer to figure out what neighborhood the units are in.
 
+4pm
+    investigated whether Zillow's API is a possibility
+    decided Zillow won't give me the right info
+    isolated the 2014 Q1 new construction data
+    confirmed that the neighborhood categories are reasonable
+    I will have to get the user's location, then ask Google Maps what neighborhood the location is in, then cross-reference that with the neighborhood names in the table.
 
 
 

@@ -1,0 +1,19 @@
+Goals for today:
+-fix 2013 and 2014 rent files
+- go through other data sources and get them in readable format
+- ask mentors about pandas/jupyter and pandas/sqlalchemy
+
+Process Goals -
+- take a stretch break every hour
+- record start and end times of work
+
+11:30
+    fixed 2013 and 2014 datasets
+    made 2011 data set
+    fixed eric fisher's dataset
+    got historical units set
+    got number of units by neighborhood set
+
+1-2 lunch
+
+

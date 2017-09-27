@@ -1,12 +1,12 @@
 https://www.zumper.com/blog/uploads/2015/01/December-2014-Rent-Report.pdf
-Outer Sunset|2250
-Inner Sunset|2720
-Lakeshore|2450
+Outer Sunset|-
+Inner Sunset|-
+Lakeshore|-
 West of Twin Peaks|2750
 Glen Park|2700
-Outer Mission/Excelsior|2000
+Outer Mission/Excelsior|-
 Bernal Heights|2850
-Bayview|3210
+Bayview|-
 Mission Bay/Dogpatch|3700
 Potrero Hill|3020
 Mission|3290
@@ -16,26 +16,26 @@ Ashbury Heights|3000
 Haight Ashbury|2950
 Lower Haight|2990
 Hayes Valley|3050
-Western Addition|3380
+Western Addition|-
 NOPA|2900
 Lone Mountain|2800
-Inner Richmond|3000
-Outer Richmond|2475
+Inner Richmond|-
+Outer Richmond|-
 Presidio Heights/Laurel Heights|2880
 Lower Pacific Heights|3000
 Pacific Heights|3500
 Cow Hollow|3100
-Marina|---
+Marina|3520
 Russian Hill|3800
 Nob Hill|3200
 Civic Center|3300
-Tenderloin|2495
+Tenderloin|
 Downtown|2850
 Financial District|3600
 Soma|3580
 South Beach|3730
 Telegraph Hill|3250
 North Beach|3050
+Noe Valley|3020
 
-*Noe Valley,3020
-*Alamo Square,2900
+*Alamo Square|2900

@@ -36,3 +36,4 @@ Soma|3700
 South Beach|3960
 Telegraph Hill|3295
 North Beach|3040
+Noe Valley|3170

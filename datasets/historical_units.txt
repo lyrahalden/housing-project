@@ -1,0 +1,8 @@
+https://housing.datasf.org/data-browser/housing-stock-and-occupancy/housing-units/
+
+1970|310,402
+1980|316,608
+1990|328,471
+2000|346,527
+2010|376,942
+2014|386,610

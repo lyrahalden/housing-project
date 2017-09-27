@@ -1,0 +1,38 @@
+http://www.sfindicatorproject.org/indicators/view/199
+Residential density (2010)
+Neighborhood|Acres|Housing units|Average housing units per acre
+Bayview/Hunter's Point|3,132|10,835|3.46
+Bernal Heights|747|10,518|14.07
+Castro/Upper Market|548|11,724|21.4
+Chinatown|86|5,332|62.26
+Excelsior|1,026|10,873|10.6
+Financial District/South Beach|444|5,528|12.45
+Glen Park| | |
+Haight Ashbury|488|10,925|22.38
+Hayes Valley| | |
+Inner Richmond|841|15,797|18.79
+Inner Sunset|854|12,089|14.15
+Lakeshore|2,333|7,842|3.36
+Lone Mountain| | |
+Marina|620|13,913|22.43
+Mission|1,107|23,687|21.39
+Mission Bay| | |
+Nob Hill|236|14,012|59.39
+Noe Valley|574|10,373|18.07
+North Beach|399|7,709|19.3
+Outer Mission|880|8,851|10.05
+Outer Richmond|1331|17,536|13.17
+Pacific Heights|429|12,407|28.94
+Potrero Hill|877|6,404|7.3
+Presidio|1,522|1,082|0.71
+Presidio Heights|281|4,105|14.58
+Russian Hill|305|11,077|36.3
+Soma|885|19,142|21.62
+Outer Sunset| | |
+Tenderloin| | |
+Twin Peaks|425|3,527|8.31
+Visitacion Valley|949|6,762|7.13
+West of Twin Peaks|1,211|8,256|6.82
+Western Addition|971|29,403|30.29
+
+San Francisco   30,172  376,941 12.49

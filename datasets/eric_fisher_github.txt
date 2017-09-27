@@ -1,3 +1,4 @@
+https://github.com/ericfischer/housing-inventory/blob/master/combined.csv
 "year","median_rent","housing_units","net_new_housing","employment","total_wages","CPI"
 2
 1906,NA,84077,8444,NA,NA,NA

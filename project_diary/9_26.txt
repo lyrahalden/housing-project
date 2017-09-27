@@ -1,0 +1,44 @@
+Goals for today:
+- investigate the Google Places API, text search version
+- try to read in a pandas dataset from a json file
+- make rough data model
+
+Process Goals -
+- take a stretch break every hour
+- record start and end times of work
+
+10am -
+    found python wrapper for google places api
+    scrum at 10:30
+    installed it
+    got a query working, if you pass in a neighborhood name it will give you the
+    longitude and latitude
+
+11am
+    spent an hour searching for data sources for rent price indexed by neighborhood
+    finally found a priceonomics blog post
+    may just have to feed that semi manually into my database
+
+12pm
+    came to conclusion that need to generate some fake data
+    need to figure out how to use pandas and flask sqlalchemy together
+        - https://stackoverflow.com/questions/43571991/pandas-df-to-database-using-flask-sqlalchemy
+    pip installed reqs for flask-sqlalchemy
+     - found in ratings app
+    wrote down data source for each data type in nb
+    started data model
+
+1-2 lunch
+
+2-3:50 - React lecture
+
+4pm
+    finished rough data model
+    got review from Henry
+    made revisions to data model
+    took muffin break
+5pm
+    entered data from Zumper/Priceonomics
+
+Tmo
+    - check 2013 and 2014 neighborhood names

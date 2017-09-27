@@ -1,0 +1,43 @@
+https://priceonomics.com/the-san-francisco-rent-explosion/
+Outer Sunset|1650
+Inner Sunset|1650
+Lakeshore|2000
+West of Twin Peaks|2400
+Glen Park|2150
+Outer Mission/Excelsior|1400
+Bernal Heights|2385
+Bayview|3210
+Mission Bay/Dogpatch|---
+Potrero Hill|2800
+Mission|2675
+Mission Dolores|---
+Castro|2700
+Ashbury Heights|3000
+Haight Ashbury|2588
+Lower Haight|2495
+Hayes Valley|2573
+Western Addition|2500
+NOPA|2900
+Lone Mountain|2800
+Inner Richmond|2000
+Outer Richmond|1750
+Presidio Heights/Laurel Heights|2695
+Lower Pacific Heights|3013
+Pacific Heights|3100
+Cow Hollow|3100
+Marina|2900
+Russian Hill|3200
+Nob Hill|2788
+Civic Center|2700
+Tenderloin|1873
+Downtown|2850
+Financial District|3395
+Soma|3475
+South Beach|3730
+Telegraph Hill|3250
+North Beach|2800
+
+*Noe Valley,2800
+*Alamo Square,2673
+*Cole Valley,2770
+*Ingelside,2000

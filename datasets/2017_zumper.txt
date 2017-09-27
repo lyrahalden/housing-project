@@ -1,0 +1,38 @@
+https://sf.curbed.com/2017/6/20/15841068/rent-report-sf-2017-map
+Outer Sunset|2500
+Inner Sunset|2850
+Lakeshore|2675
+West of Twin Peaks|2990
+Glen Park|2870
+Outer Mission/Excelsior|2200
+Bernal Heights|2790
+Bayview|2600
+Mission Bay/Dogpatch|3490
+Potrero Hill|3490
+Mission|3200
+Mission Dolores|3650
+Castro|3400
+Ashbury Heights|3300
+Haight Ashbury|3300
+Lower Haight|3100
+Hayes Valley|3200
+Western Addition|3300
+NOPA|3400
+Lone Mountain|2850
+Inner Richmond|2950
+Outer Richmond|2490
+Presidio Heights/Laurel Heights|3150
+Lower Pacific Heights|3150
+Pacific Heights|3600
+Cow Hollow|3175
+Marina|3325
+Russian Hill|3600
+Nob Hill|3200
+Civic Center|3300
+Tenderloin|2495
+Downtown|3050
+Financial District|3580
+Soma|3550
+South Beach|3720
+Telegraph Hill|3290
+North Beach|3350

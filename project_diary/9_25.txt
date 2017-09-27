@@ -45,5 +45,14 @@ What I Did Today:
     confirmed that the neighborhood categories are reasonable
     I will have to get the user's location, then ask Google Maps what neighborhood the location is in, then cross-reference that with the neighborhood names in the table.
 
+5pm
+    asked Henry - Google Places API
+        can start with a dropdown where the user picks from a list of neighborhood names
+    cleaned up jupyter nb duplicates
+    trying to read json in from a saved file
+        failed, not sure what parameters to use, keep getting ValueErrors
+    no limit on Socrata API calls as far as I'm aware(??)
+
+
 
 

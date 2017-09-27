@@ -1,0 +1,38 @@
+https://www.zumper.com/blog/2015/06/san-francisco-rent-prices-continue-increase-into-june/
+Outer Sunset|2250
+Inner Sunset|2720
+Lakeshore|2450
+West of Twin Peaks|3010
+Glen Park|2810
+Outer Mission/Excelsior|2000
+Bernal Heights|2600
+Bayview|3210
+Mission Bay/Dogpatch|3910
+Potrero Hill|3450
+Mission|3650
+Mission Dolores|3370
+Castro|3650
+Ashbury Heights|3330
+Haight Ashbury|2800
+Lower Haight|3210
+Hayes Valley|3250
+Western Addition|3380
+NOPA|2950
+Lone Mountain|2890
+Inner Richmond|3000
+Outer Richmond|2475
+Presidio Heights/Laurel Heights|2960
+Lower Pacific Heights|3350
+Pacific Heights|3700
+Cow Hollow|3200
+Marina|3695
+Russian Hill|3725
+Nob Hill|3125
+Civic Center|3500
+Tenderloin|2495
+Downtown|3250
+Financial District|3995
+Soma|3700
+South Beach|3960
+Telegraph Hill|3295
+North Beach|3040

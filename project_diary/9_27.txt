@@ -16,4 +16,17 @@ Process Goals -
 
 1-2 lunch
 
+2pm
+    emailed mentors
+    tried to figure out number of units added recently data
+    failing to read in a csv
 
+3pm
+    will use jupyter for data processing, then make a csv file with the table i want
+    trying to extract data from 2016 Q1
+
+4pm
+    took break
+    did it!!!!
+
+5pm
